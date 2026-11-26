@@ -1,0 +1,6 @@
+{
+  "name": "MarketMate AI – Smart Marketing Strategy Builder",
+  "description": "Your personal AI marketing assistant that turns business details, goals, and budget into actionable marketing strategies, 7-day content plans, audience segments, and growth campaigns.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
